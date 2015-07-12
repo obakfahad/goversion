@@ -53,5 +53,6 @@ sudo mv go /usr/local/
 echo "export PATH=$PATH:/usr/local/go/bin" >> /etc/profile
 fi
 fi
-
+echo "-----------------------------------------"
 echo "Go is installed but you need to reboot your system to work with go and get go command working. happy Journey with Go."
+echo "-----------------------------------------"
