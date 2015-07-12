@@ -7,6 +7,8 @@ Just run below command to get `go`. (copy full command and run)
 
 `sudo wget https://raw.githubusercontent.com/obakfahad/goversion/master/goversion.sh -O /tmp/goversion;sudo chmod a+x /tmp/goversion;sudo bash /tmp/goversion`
 
+![Download go for ubuntu the easy way.](https://raw.githubusercontent.com/obakfahad/goversion/master/google-go-logo.jpg "Go Programming Language From Google")
+
 ###Precaution:
 `This is only tested in Ubuntu14.04,15.05 and also in Kubuntu`
 
