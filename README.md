@@ -1,7 +1,7 @@
 Goversion
 ======
 This is a single script to check for latest go release and upgrade and also to download go for Ubuntu.
----
+
 ##Procedure:
 `sudo wget https://raw.githubusercontent.com/obakfahad/goversion/master/goversion.sh -O /tmp/goversion;sudo chmod a+x /tmp/goversion;sudo bash /tmp/goversion`
 
